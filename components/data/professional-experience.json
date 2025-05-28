@@ -1,0 +1,120 @@
+{
+  "experiences": [
+    {
+      "id": "1",
+      "company": "Tech Solutions Inc.",
+      "position": "Senior Software Engineer",
+      "duration": "Jan 2022 - Present",
+      "location": "San Francisco, CA",
+      "type": "Full-time",
+      "logo": "images/logos/BITS_Pilani-Logo.svg.png",
+      "description": [
+        "Led development of microservices architecture serving 1M+ daily active users",
+        "Mentored junior developers and conducted code reviews for quality assurance",
+        "Collaborated with cross-functional teams to deliver features on tight deadlines",
+        "Implemented CI/CD pipelines reducing deployment time by 60%"
+      ],
+      "technologies": [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "achievements": [
+        "Improved application performance by 40% through code optimization",
+        "Led migration from monolith to microservices architecture",
+        "Reduced bug reports by 35% through implementation of comprehensive testing"
+      ]
+    },
+    {
+      "id": "2",
+      "company": "Digital Innovations Ltd.",
+      "position": "Full Stack Developer",
+      "duration": "Jun 2020 - Dec 2021",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "logo": "/logos/digital-innovations.png",
+      "description": [
+        "Developed responsive web applications using modern JavaScript frameworks",
+        "Designed and implemented RESTful APIs for mobile and web clients",
+        "Worked closely with UX/UI designers to create intuitive user interfaces",
+        "Participated in agile development processes and sprint planning"
+      ],
+      "technologies": [
+        "Vue.js",
+        "Python",
+        "Django",
+        "MySQL",
+        "Git",
+        "Jenkins",
+        "Linux"
+      ],
+      "achievements": [
+        "Delivered 5 major projects ahead of schedule",
+        "Increased code coverage from 45% to 85%",
+        "Reduced API response time by 50%"
+      ]
+    },
+    {
+      "id": "3",
+      "company": "StartupXYZ",
+      "position": "Frontend Developer",
+      "duration": "Jan 2019 - May 2020",
+      "location": "Austin, TX",
+      "type": "Full-time",
+      "logo": "/logos/startupxyz.png",
+      "description": [
+        "Built user-facing features for SaaS platform with 10k+ monthly users",
+        "Optimized web application performance and mobile responsiveness",
+        "Integrated third-party APIs and payment processing systems",
+        "Collaborated with product team to define technical requirements"
+      ],
+      "technologies": [
+        "Angular",
+        "JavaScript",
+        "SCSS",
+        "Firebase",
+        "Stripe API",
+        "Google Analytics"
+      ],
+      "achievements": [
+        "Improved page load speed by 45%",
+        "Successfully integrated payment system processing $1M+ annually",
+        "Achieved 98% cross-browser compatibility"
+      ]
+    },
+    {
+      "id": "4",
+      "company": "FreelanceHub",
+      "position": "Web Developer",
+      "duration": "Sep 2017 - Dec 2018",
+      "location": "Remote",
+      "type": "Contract",
+      "logo": "/logos/freelancehub.png",
+      "description": [
+        "Developed custom WordPress themes and plugins for various clients",
+        "Created e-commerce solutions using WooCommerce and Shopify",
+        "Provided technical consultation for small businesses",
+        "Managed multiple projects simultaneously with strict deadlines"
+      ],
+      "technologies": [
+        "WordPress",
+        "PHP",
+        "JavaScript",
+        "MySQL",
+        "HTML/CSS",
+        "WooCommerce",
+        "Shopify"
+      ],
+      "achievements": [
+        "Completed 25+ client projects with 100% satisfaction rate",
+        "Increased client website traffic by average of 60%",
+        "Built responsive designs improving mobile engagement by 40%"
+      ]
+    }
+  ]
+}

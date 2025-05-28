@@ -12,8 +12,6 @@ const Index: NextPage<unknown> = () => (
         <About/>
         <Education/>
         <SkillsList/>
-        <PublicationList/>
-        <Teaching/>
         
     </>
 );

@@ -1,0 +1,136 @@
+{
+  "experiences": [
+    {
+      "id": "1",
+      "title": "Student Body President",
+      "organization": "University of Technology",
+      "duration": "Sep 2018 - May 2019",
+      "type": "Leadership",
+      "logo": "/logos/university-tech.png",
+      "description": [
+        "Led student government representing 15,000+ undergraduate students",
+        "Organized campus-wide events and initiatives improving student life",
+        "Collaborated with university administration on policy changes",
+        "Managed annual budget of $500,000 for student activities"
+      ],
+      "skills": [
+        "Leadership",
+        "Public Speaking",
+        "Budget Management",
+        "Event Planning",
+        "Negotiation"
+      ],
+      "impact": "Successfully advocated for extended library hours and improved campus Wi-Fi infrastructure"
+    },
+    {
+      "id": "2",
+      "title": "Research Assistant",
+      "organization": "Computer Science Department",
+      "duration": "Jan 2018 - Dec 2018",
+      "type": "Research",
+      "logo": "/logos/cs-dept.png",
+      "description": [
+        "Conducted research on machine learning algorithms under Dr. Sarah Johnson",
+        "Developed predictive models for analyzing large datasets",
+        "Co-authored research paper published in IEEE conference",
+        "Presented findings at undergraduate research symposium"
+      ],
+      "skills": [
+        "Machine Learning",
+        "Python",
+        "Data Analysis",
+        "Research Methodology",
+        "Technical Writing"
+      ],
+      "impact": "Research contributed to 20% improvement in prediction accuracy for traffic flow optimization"
+    },
+    {
+      "id": "3",
+      "title": "Tutor - Computer Programming",
+      "organization": "Academic Success Center",
+      "duration": "Sep 2017 - May 2019",
+      "type": "Academic",
+      "logo": "/logos/academic-center.png",
+      "description": [
+        "Provided one-on-one tutoring for introductory programming courses",
+        "Helped students understand fundamental programming concepts",
+        "Developed supplementary learning materials and practice exercises",
+        "Maintained 95% student satisfaction rate across 100+ sessions"
+      ],
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Problem Solving",
+        "Curriculum Development"
+      ],
+      "impact": "Helped improve average student grades by 1.2 GPA points in tutored courses"
+    },
+    {
+      "id": "4",
+      "title": "Volunteer Coordinator",
+      "organization": "Campus Community Outreach",
+      "duration": "Aug 2017 - May 2018",
+      "type": "Volunteer",
+      "logo": "/logos/community-outreach.png",
+      "description": [
+        "Coordinated volunteer activities for local community service projects",
+        "Organized weekly food drives and homeless shelter assistance",
+        "Recruited and managed team of 50+ student volunteers",
+        "Established partnerships with 10 local non-profit organizations"
+      ],
+      "skills": [
+        "Project Management",
+        "Team Coordination",
+        "Community Engagement",
+        "Partnership Building",
+        "Social Impact"
+      ],
+      "impact": "Facilitated 500+ hours of community service and collected 2,000+ pounds of food donations"
+    },
+    {
+      "id": "5",
+      "title": "Hackathon Organizer",
+      "organization": "Tech Innovation Club",
+      "duration": "Oct 2017 - Apr 2018",
+      "type": "Leadership",
+      "logo": "/logos/tech-club.png",
+      "description": [
+        "Planned and executed annual 48-hour coding competition",
+        "Secured sponsorships from major tech companies totaling $25,000",
+        "Managed logistics for 200+ participants from 15 universities",
+        "Coordinated with industry mentors and judges"
+      ],
+      "skills": [
+        "Event Management",
+        "Sponsorship Acquisition",
+        "Logistics Coordination",
+        "Networking",
+        "Marketing"
+      ],
+      "impact": "Event led to 15 internship offers and 3 startup formations among participants"
+    },
+    {
+      "id": "6",
+      "title": "Peer Mentor",
+      "organization": "First-Year Experience Program",
+      "duration": "Aug 2016 - May 2017",
+      "type": "Academic",
+      "logo": "/logos/peer-mentor.png",
+      "description": [
+        "Mentored group of 15 first-year students transitioning to college life",
+        "Facilitated weekly discussion sessions on academic and social topics",
+        "Provided guidance on course selection and career planning",
+        "Connected students with campus resources and support services"
+      ],
+      "skills": [
+        "Mentoring",
+        "Active Listening",
+        "Empathy",
+        "Group Facilitation",
+        "Resource Awareness"
+      ],
+      "impact": "Achieved 92% retention rate among mentored students (vs 85% program average)"
+    }
+  ]
+}
