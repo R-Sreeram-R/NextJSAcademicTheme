@@ -8,8 +8,13 @@ import GoogleTag from '../components/GoogleTag';
 
 import 'tailwindcss/tailwind.css';
 
+import { useRouter } from 'next/router';
+
 const App = ({Component, pageProps}: Readonly<AppProps>): JSX.Element => {
 	const {resolvedTheme} = useTheme();
+	const router = useRouter();
+
+  	const noLayoutNeeded = router.pathname === "/404";
 
 	return (
 		<ThemeProvider attribute="class">

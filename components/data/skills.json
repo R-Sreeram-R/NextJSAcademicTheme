@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Machine Learning",
+        "skills": [
+            {
+                "name": "Python",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+                "alt": "Python logo"
+            },
+            {
+                "name": "PyTorch",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg",
+                "alt": "PyTorch logo"
+            },
+            {
+                "name": "TensorFlow",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg",
+                "alt": "TensorFlow logo"
+            },
+            {
+                "name": "Scikit-Learn",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg",
+                "alt": "Scikit-Learn logo"
+            }
+        ]
+    },
+    {
+        "title": "Cloud Platforms",
+        "skills": [
+            {
+                "name": "AWS",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg",
+                "alt": "AWS logo"
+            },
+            {
+                "name": "Azure",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg",
+                "alt": "Microsoft Azure logo"
+            }
+        ]
+    },
+    {
+        "title": "Web Development",
+        "skills": [
+            {
+                "name": "Node.js",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+                "alt": "Node.js logo"
+            }
+        ]
+    },
+    {
+        "title": "More Skills",
+        "skills": [
+            {
+                "name": "Java",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+                "alt": "Java logo"
+            },
+            {
+                "name": "C",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg",
+                "alt": "Node.js logo"
+            },
+            {
+                "name": "C++",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+                "alt": "C++ logo"
+            }
+            
+        ]
+    }
+]

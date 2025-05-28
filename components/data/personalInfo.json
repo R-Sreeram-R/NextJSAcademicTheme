@@ -1,6 +1,6 @@
 {
-    "title": "Harry Potter",
-    "name": "Harry James Potter",
+    "title": "Sreeram Raghammudi",
+    "name": "Sreeram Raghammudi",
     "domain":"https://nextjs-academic-theme.vercel.app/",
     "copyright":"harrypotter.me",
     "socialMedia": {
@@ -25,7 +25,7 @@
         "email": "harrypotter AT MyUniversity",
         "interest": "Defense against Dark Arts Spell; Dark Creatures"
     },
-    "love": "https://harrypotter.fandom.com/wiki/James_and_Lily_Potter",
+    "love": "https://en.wikipedia.org/wiki/Samosa",
     "education": [
         {
             "name": "The Auror Department(2007-2008, Visiting Scholar)",
