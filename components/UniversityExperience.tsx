@@ -16,7 +16,7 @@ interface UniversityExperience {
 const UniversityExperience: React.FC = () => {
   return (
     <section className="w-full" id="university-experience">
-      <h2 className="text-xl font-bold mt-12 mb-4">University Experience & Activities</h2>
+      <h2 className="text-4xl text-center font-bold mt-12 mb-12">University Experience & Activities</h2>
       <div className="space-y-6">
         {universityData.experiences.map((exp: UniversityExperience) => (
           <div 

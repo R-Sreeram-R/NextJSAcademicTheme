@@ -28,20 +28,31 @@
         "title": "Cloud Platforms",
         "skills": [
             {
-                "name": "AWS",
-                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg",
-                "alt": "AWS logo"
+                "name": "GCP",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg",
+                "alt": "Google Cloud logo"
             },
             {
                 "name": "Azure",
                 "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg",
                 "alt": "Microsoft Azure logo"
+            },
+            {
+                "name": "AWS",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg",
+                "alt": "AWS logo"
             }
+            
         ]
     },
     {
         "title": "Web Development",
         "skills": [
+            {
+                "name": "JavaScript",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+                "alt": "Node.js logo"
+            },
             {
                 "name": "Node.js",
                 "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
@@ -52,6 +63,11 @@
     {
         "title": "More Skills",
         "skills": [
+            {
+                "name": "Docker",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+                "alt": "Java logo"
+            },
             {
                 "name": "Java",
                 "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",

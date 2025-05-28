@@ -1,4 +1,4 @@
-import SkillCard from './skillCard'
+import SkillCard from './SkillCard'
 import skillsData from './data/skills.json'
 
 const SkillsList = (): JSX.Element => {
@@ -9,7 +9,7 @@ const SkillsList = (): JSX.Element => {
                 {skillsData.map((category, index) => (
                     <div key={index} className="skill-category">
                         <h3 className="text-lg font-semibold mb-4">{category.title}</h3>
-                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4">
                             {category.skills.map((skill, skillIndex) => (
                                 <SkillCard skill={skill} key={skillIndex} />
                             ))}

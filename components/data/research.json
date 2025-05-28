@@ -1,0 +1,22 @@
+{
+  "researchInterests": [
+    {
+      "title": "(Multimodal) Sentiment Analysis",
+      "icon": "🤖",
+      "description": "Developing advanced algorithms for pattern recognition, predictive modeling, and automated decision-making systems across various domains.",
+      "keywords": ["Neural Networks", "Transformers", "Computer Vision", "NLP"]
+    },
+    {
+      "title": "Machine Learning for Finance",
+      "icon": "📊",
+      "description": "Extracting meaningful insights from complex datasets using statistical methods, visualization techniques, and predictive analytics.",
+      "keywords": ["Big Data", "Analytics", "Statistics", "Visualization"]
+    },
+    {
+      "title": "Document Intelligence",
+      "icon": "🧠",
+      "description": "Research in AI systems, cognitive computing, and intelligent automation to solve real-world problems and enhance human capabilities.",
+      "keywords": ["AI Ethics", "Automation", "Cognitive Systems", "Expert Systems"]
+    }
+  ]
+}

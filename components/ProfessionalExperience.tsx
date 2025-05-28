@@ -17,7 +17,7 @@ interface ProfessionalExperience {
 const ProfessionalExperience: React.FC = () => {
     return (
         <section className="w-full" id="professional-experience">
-            <h2 className="text-xl font-bold mt-12 mb-4">Professional Experience</h2>
+            <h2 className="text-4xl text-center font-bold mt-12 mb-12">Professional Experience</h2>
             <div className="space-y-6">
                 {professionalData.experiences.map((exp: ProfessionalExperience) => (
                     <div

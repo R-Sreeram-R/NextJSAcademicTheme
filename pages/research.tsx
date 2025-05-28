@@ -1,16 +1,13 @@
 import {NextPage} from 'next';
+import {useState} from 'react';
 
-import About from '../components/About';
-import PublicationList from '../components/PublicationList';
-import Teaching from '../components/Teaching';
-import Education from '../components/Education';
+import ResearchInterests from '../components/ResearchInterests';
 
 
-const Index: NextPage<unknown> = () => (
-    <>
-        <About/>
-        <Education/>        
-    </>
+const ResearchPage: NextPage = () => (
+  <>
+    <ResearchInterests />
+  </>
 );
 
-export default Index;
+export default ResearchPage;
