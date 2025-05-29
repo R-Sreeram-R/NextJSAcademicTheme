@@ -14,7 +14,7 @@ const SkillCard = ({ skill }: SkillCardProps): JSX.Element => {
             <img 
                 src={skill.logo} 
                 alt={skill.alt}
-                className="w-10 h-10 object-contain flex-shrink-0"
+                className="w-5 h-5 object-contain flex-shrink-0"
             />
             <span className="font-medium text-gray-800">{skill.name}</span>
         </div>

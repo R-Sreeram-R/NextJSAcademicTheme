@@ -3,7 +3,7 @@
 ## [Original Demo🔗](https://nextjs-academic-theme.vercel.app/)
 > A simple academic personal website, built with Tailwind CSS and Next.js, focused on performance, a11y and privacy 🚀
 
-
+### Add in Robots.txt?
 
 ## Development
 
