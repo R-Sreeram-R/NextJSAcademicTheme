@@ -2,9 +2,9 @@
   "experiences": [
     {
       "id": "1",
-      "title": "Student Body President",
-      "organization": "University of Technology",
-      "duration": "Sep 2018 - May 2019",
+      "title": "President at Entrepreneurship Cell",
+      "organization": "BITS Pilani",
+      "duration": "Jun 2024 - Jul 2025",
       "type": "Leadership",
       "logo": "/logos/university-tech.png",
       "description": [
@@ -24,10 +24,10 @@
     },
     {
       "id": "2",
-      "title": "Research Assistant",
-      "organization": "Computer Science Department",
-      "duration": "Jan 2018 - Dec 2018",
-      "type": "Research",
+      "title": "Startup Co-Ordinator for the Campus",
+      "organization": "BITS Pilani, Institution's Innovation Council (Govt of India Initiative)",
+      "duration": "Jun 2023 - Jul 2025",
+      "type": "Leadership",
       "logo": "/logos/cs-dept.png",
       "description": [
         "Conducted research on machine learning algorithms under Dr. Sarah Johnson",
@@ -46,9 +46,9 @@
     },
     {
       "id": "3",
-      "title": "Tutor - Computer Programming",
-      "organization": "Academic Success Center",
-      "duration": "Sep 2017 - May 2019",
+      "title": "Teaching Assistant",
+      "organization": "Physics Laboratory",
+      "duration": "Sep 2022 - Jan 2023",
       "type": "Academic",
       "logo": "/logos/academic-center.png",
       "description": [
@@ -68,10 +68,10 @@
     },
     {
       "id": "4",
-      "title": "Volunteer Coordinator",
-      "organization": "Campus Community Outreach",
+      "title": "Startup Co-Founder",
+      "organization": "Faista Fashion",
       "duration": "Aug 2017 - May 2018",
-      "type": "Volunteer",
+      "type": "Leadership",
       "logo": "/logos/community-outreach.png",
       "description": [
         "Coordinated volunteer activities for local community service projects",
@@ -87,50 +87,6 @@
         "Social Impact"
       ],
       "impact": "Facilitated 500+ hours of community service and collected 2,000+ pounds of food donations"
-    },
-    {
-      "id": "5",
-      "title": "Hackathon Organizer",
-      "organization": "Tech Innovation Club",
-      "duration": "Oct 2017 - Apr 2018",
-      "type": "Leadership",
-      "logo": "/logos/tech-club.png",
-      "description": [
-        "Planned and executed annual 48-hour coding competition",
-        "Secured sponsorships from major tech companies totaling $25,000",
-        "Managed logistics for 200+ participants from 15 universities",
-        "Coordinated with industry mentors and judges"
-      ],
-      "skills": [
-        "Event Management",
-        "Sponsorship Acquisition",
-        "Logistics Coordination",
-        "Networking",
-        "Marketing"
-      ],
-      "impact": "Event led to 15 internship offers and 3 startup formations among participants"
-    },
-    {
-      "id": "6",
-      "title": "Peer Mentor",
-      "organization": "First-Year Experience Program",
-      "duration": "Aug 2016 - May 2017",
-      "type": "Academic",
-      "logo": "/logos/peer-mentor.png",
-      "description": [
-        "Mentored group of 15 first-year students transitioning to college life",
-        "Facilitated weekly discussion sessions on academic and social topics",
-        "Provided guidance on course selection and career planning",
-        "Connected students with campus resources and support services"
-      ],
-      "skills": [
-        "Mentoring",
-        "Active Listening",
-        "Empathy",
-        "Group Facilitation",
-        "Resource Awareness"
-      ],
-      "impact": "Achieved 92% retention rate among mentored students (vs 85% program average)"
     }
   ]
 }
