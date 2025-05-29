@@ -17,7 +17,7 @@ const App = ({Component, pageProps}: Readonly<AppProps>): JSX.Element => {
   	const noLayoutNeeded = router.pathname === "/404";
 
 	return (
-		<ThemeProvider attribute="class">
+		<ThemeProvider attribute="class" defaultTheme='light'>
 			<GoogleTag/>
 			<Head>
 				<title>{personalInfo.title}</title>
