@@ -2,47 +2,47 @@ import React from 'react';
 import researchData from './data/research.json';
 
 const ResearchInterests = () => {
+  const scrollToPublications = () => {
+        const target = document.getElementById('publications');
+        if (target) {
+            const yOffset = -80; // adjust this value based on your header height
+            const y = target.getBoundingClientRect().top + window.pageYOffset + yOffset;
+
+            window.scrollTo({
+                top: y,
+                behavior: 'smooth'
+            });
+        }
+    };
+
   return (
-    <section className="py-16 px-6 bg-gray-50">
+    <section className="py-12 px-6 bg-white relative">
       <div className="max-w-6xl mx-auto">
-        <div className="text-center mb-12">
+        <div className="text-center mb-8">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
             Research Interests
           </h2>
-          <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Exploring cutting-edge technologies and methodologies across various domains
-          </p>
+          <button
+            onClick={scrollToPublications}
+            className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm"
+          >
+            View Publications →
+          </button>
         </div>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="space-y-4">
           {researchData.researchInterests.map((interest, index) => (
-            <div
-              key={index}
-              className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2 p-6 border border-gray-100"
+            <div 
+              key={index} 
+              className="bg-white rounded-lg p-4"
             >
-              <div className="mb-4">
-                <div className="w-12 h-12 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center mb-4">
-                  <span className="text-2xl">{interest.icon}</span>
-                </div>
-                <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                  {interest.title}
-                </h3>
-              </div>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">
+                {interest.title}
+              </h3>
               
-              <p className="text-gray-600 mb-4 leading-relaxed">
+              <p className="text-gray-700 text-sm">
                 {interest.description}
               </p>
-              
-              <div className="flex flex-wrap gap-2">
-                {interest.keywords.map((keyword, keyIndex) => (
-                  <span
-                    key={keyIndex}
-                    className="px-3 py-1 bg-blue-100 text-blue-800 text-sm rounded-full font-medium"
-                  >
-                    {keyword}
-                  </span>
-                ))}
-              </div>
             </div>
           ))}
         </div>

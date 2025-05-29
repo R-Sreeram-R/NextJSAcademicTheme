@@ -11,19 +11,19 @@
     "about": {
         "year": "7th-year",
         "department": {
-            "name": "Gryffindor",
-            "link": "https://harrypotter.fandom.com/wiki/Gryffindor"
+            "name": "SEAS",
+            "link": "https://www.engineering.columbia.edu/"
         },
         "college": {
-            "name": "Hogwarts School of Witchcraft and Wizardry",
+            "name": "Columbia University",
             "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
         },
         "advisor": {
-            "name": "Albus Dumbledor",
+            "name": "(Looking for one)",
             "link": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
         },
         "email": "harrypotter AT MyUniversity",
-        "interest": "Defense against Dark Arts Spell; Dark Creatures"
+        "interest": "Machine learning for NLP and Finance"
     },
     "love": "https://en.wikipedia.org/wiki/Samosa",
     "education": [

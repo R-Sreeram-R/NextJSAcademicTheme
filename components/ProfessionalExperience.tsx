@@ -15,9 +15,32 @@ interface ProfessionalExperience {
 }
 
 const ProfessionalExperience: React.FC = () => {
+
+    const scrollToUniversityExp = () => {
+        const target = document.getElementById('university-experience');
+        if (target) {
+            const yOffset = -80; // adjust this value based on your header height
+            const y = target.getBoundingClientRect().top + window.pageYOffset + yOffset;
+
+            window.scrollTo({
+                top: y,
+                behavior: 'smooth'
+            });
+        }
+    };
+
     return (
         <section className="w-full" id="professional-experience">
             <h2 className="text-4xl text-center font-bold mt-12 mb-12">Professional Experience</h2>
+            <div className="flex justify-end mb-6">
+                <button
+                    onClick={scrollToUniversityExp}
+                    className="inline-flex items-center px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md hover:bg-gray-200 transition-colors text-xs font-medium"
+                >
+                    Go to University Experience →
+                </button>
+            </div>
+
             <div className="space-y-6">
                 {professionalData.experiences.map((exp: ProfessionalExperience) => (
                     <div

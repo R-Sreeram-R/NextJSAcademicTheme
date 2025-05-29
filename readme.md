@@ -1,20 +1,9 @@
 # NextJS Academic Theme
 
-## [Demo🔗](https://nextjs-academic-theme.vercel.app/)
+## [Original Demo🔗](https://nextjs-academic-theme.vercel.app/)
 > A simple academic personal website, built with Tailwind CSS and Next.js, focused on performance, a11y and privacy 🚀
 
 
-## Highlights
-
-- Built with:
-    - [Next.js](https://nextjs.org/) (Thereby, hosting on [Vercel](https://vercel.com) is recommended. FREE)
-        - Written in [TypeScript](https://nextjs.org/docs/pages/building-your-application/configuring/typescript) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
-    - [Tailwind CSS](https://tailwindcss.com/)
-- **Easy customization** - edit the data in components/data/*.json without altering the code.
-- **Accessible** - follows [WAI-ARIA](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics).
-- **Responsive** - uses latest CSS features and looks great on all devices.
-- Optimized SEO
-- Traffic tracking by Google Analytics
 
 ## Development
 

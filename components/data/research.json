@@ -1,9 +1,9 @@
 {
   "researchInterests": [
     {
-      "title": "(Multimodal) Sentiment Analysis",
+      "title": "Natural Language Processing - (Multimodal) Sentiment Analysis",
       "icon": "🤖",
-      "description": "Developing advanced algorithms for pattern recognition, predictive modeling, and automated decision-making systems across various domains.",
+      "description": "Algorithms and architectures to detect sarcasm, emotions and include contexts",
       "keywords": ["Neural Networks", "Transformers", "Computer Vision", "NLP"]
     },
     {
