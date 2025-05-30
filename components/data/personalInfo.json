@@ -1,15 +1,16 @@
 {
     "title": "Sreeram Raghammudi",
     "name": "Sreeram Raghammudi",
-    "domain":"https://nextjs-academic-theme.vercel.app/",
+    "domain":"https://sreeram-raghammudi.vercel.app/",
     "copyright":"harrypotter.me",
     "socialMedia": {
         "Twitter": "https://twitter.com/",
-        "LinkedIn": "https://www.linkedin.com/",
-        "GoogleScholar": "https://scholar.google.com/"
+        "LinkedIn": "https://www.linkedin.com/in/sreeram-raghammudi-b95634250/",
+        "GoogleScholar": "https://scholar.google.com/",
+        "GooglePatents": "https://patents.google.com/?q=(Raghammudi)"
     },
     "about": {
-        "year": "7th-year",
+        "year": "1st-year",
         "department": {
             "name": "SEAS",
             "link": "https://www.engineering.columbia.edu/"
